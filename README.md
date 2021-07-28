@@ -1,6 +1,6 @@
 # Boston House Prediction Application
 
-The Boston House Prediction Application is a Python application for predicting house prices with the load_boston data. The Application is also deployed on Heroku and can be accessed via https://boston-house-price-predictor.herokuapp.com/predict
+The Boston House Prediction Application is a Python application for predicting house prices with the load_boston data. The Application is also deployed on Heroku and can be accessed via https://boston-house-price-predictor.herokuapp.com/
 
 
 
